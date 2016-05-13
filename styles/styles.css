@@ -121,4 +121,11 @@ span.glyphicon.blue {
 	padding-left: .3em;
 	opacity: 0;
 }
-
+a:link, a:visited {
+	color: #b3d9ff;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	text-decoration: underline;
+}
