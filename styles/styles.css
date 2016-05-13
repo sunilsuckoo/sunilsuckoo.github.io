@@ -1,0 +1,124 @@
+.navbar{
+	background-color: black;
+	opacity: .7;
+}
+#about-me {
+	background-color: #4FD5D6;
+	padding-top: 10em;
+	padding-bottom: 11em;
+}
+.no-padding{
+	padding-right: 0;
+  padding-left: 0;
+}
+.no-gutter{
+	padding: 0;
+}
+#about-me h2 {
+	color: white;
+}
+#about-box {
+	background-color: white;
+}
+#resume {
+	/*background-color: white;*/
+	background-color: black;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+#resume h2 {
+	color: white;
+}
+#resume p {
+	color: white;
+}
+#resume:hover span{
+	color: #FF0000;
+}
+#past-research {
+	background-color: #4FD5D6;
+	padding-top: 2em;
+}
+#past-research h2 {
+	color: black;
+}
+#contact{
+	background-color: #4FD5D6;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+#contact h2 {
+	color: white;
+}
+#conferences-and-awards {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+.line{
+	border-width: .2em;
+	width: 5em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.line.red {
+	border-color: #FF0000;
+}
+.line.black {
+	border-color: black;
+}
+.line.light-blue {
+	border-color: #CDFFFF;
+}
+h2{
+	font-weight: bold;
+}
+p{
+	font-size: 16px;
+}
+.navbar-brand {
+	color: white;
+}
+.nav-link {
+	color: white;
+}
+.research-box {
+	position: relative;
+	background-color: black;
+	color: white;
+}
+.research-content {
+	position: absolute;
+}
+.research-box img {
+	height: 20em;
+}
+.research-box:hover p {
+	opacity: 1;
+}
+.research-box h3 {
+	opacity: 0;
+}
+.research-box:hover h3 {
+	opacity: 1;
+}
+span.glyphicon {
+	font-size: 4em;
+}
+span.glyphicon.red {
+	color: #FF0000;
+}
+span.glyphicon.white {
+	color: white;
+}
+span.glyphicon.light-blue {
+	color: #CDFFFF;
+}
+span.glyphicon.blue {
+	color: #4FD5D6;
+}
+.research-box p{
+	text-align: left;
+	padding-left: .3em;
+	opacity: 0;
+}
+
