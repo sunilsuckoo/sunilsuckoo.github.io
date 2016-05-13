@@ -129,3 +129,11 @@ a:hover {
 	color: white;
 	text-decoration: underline;
 }
+#conferences-and-awards a:link, #conferences-and-awards a:visited {
+	color: #4da6ff;
+	text-decoration: none;
+}
+#conferences-and-awards a:hover {
+	color: #99ccff;
+	text-decoration: none;
+}
